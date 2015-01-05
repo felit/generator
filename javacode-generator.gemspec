@@ -6,8 +6,8 @@ require 'javacode/generator/version'
 Gem::Specification.new do |spec|
   spec.name          = "javacode-generator"
   spec.version       = Javacode::Generator::VERSION
-  spec.authors       = ["congshuanglong"]
-  spec.email         = ["congshuanglong@126.com"]
+  spec.authors       = ["felit"]
+  spec.email         = ["nofelit@126.com"]
   spec.description   = %q{TODO: Write a gem description}
   spec.summary       = %q{TODO: Write a gem summary}
   spec.homepage      = ""
